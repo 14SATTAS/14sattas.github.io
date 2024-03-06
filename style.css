@@ -1,2 +1,7 @@
 /* Custom styles for Tierson Aerospace Systems Website */
     /* Add your CSS styles here */
+
+.logo img {
+    height: 60px; /* Adjust the size as needed */
+    width: auto; /* Maintain aspect ratio */
+}
